@@ -1,4 +1,4 @@
-<h1 align="center">🎙️ Gujarati Custom ASR Pipeline</h1>
+<h1 align="center">🎙️ ShrutiLekhan-Gujarati Custom ASR Pipeline</h1>
 
 <div align="center">
 
